@@ -1,0 +1,9 @@
+# Sensitive files - NEVER commit these
+config.py
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
